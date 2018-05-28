@@ -102,7 +102,7 @@ Based on tools we’ve worked with…..can you think of another way to bulk down
 
 An API (application programming interface) is a defined set of methods for communicating with a software system. Postman is a simple interface to develop and evaluate API requests. This can also be done using cURL on the command line, or through any web browser.
 
-![](img/dplaapi.png)
+![Image from [DPLA's API Codex](https://pro.dp.la/developers/api-codex)](img/dplaapi.png)
 
 #### Why you might need it
 
