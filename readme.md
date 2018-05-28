@@ -93,8 +93,7 @@ Use DownThemAll to download multiple texts from the collection below or one of y
 
 ### Alternative Bulk Downloading
 
-Based on tools we’ve worked with…..can you think of another way to bulk
-download those PDFs?
+Based on tools we’ve worked with…..can you think of another way to bulk download those PDFs?
 
 ## Using an API to download metadata
 ### Tool: [*DPLA API*](http://dp.la/info/developers/codex/) / [*Postman*](https://www.getpostman.com/)
@@ -103,8 +102,7 @@ download those PDFs?
 
 An API (application programming interface) is a defined set of methods for communicating with a software system. Postman is a simple interface to develop and evaluate API requests. This can also be done using cURL on the command line, or through any web browser.
 
-![](media/image2.png){width="4.536458880139983in"
-height="1.9805741469816274in"}
+![](img/dplaapi.png)
 
 #### Why you might need it
 
