@@ -1,10 +1,11 @@
 ## Getting Data
+
 During this session you will be introduced to a variety of methods to
 get data from collections, documents, and the web.
 
 ### Tools and Platforms
 
--   [*import.io*](https://import.io/)
+-   [*Web Scraper*](https://webscraper.io/)
 -   [*DownThemAll*](https://addons.mozilla.org/en-US/firefox/addon/downthemall/)
 -   [*Wget*](http://www.gnu.org/software/wget/)
 -   [*Postman*](https://www.getpostman.com/)
@@ -129,7 +130,7 @@ Open Postman and click on ‘Request.’
 4. To make sure everything’s working, click “Send.”
 `http://api.dp.la/v2/items?api_key=YOUR_API_KEY`
 
-You should receive over 21 million items. Unfortunately, some of those aren’t movie posters. Earlier, when you located those 96 motion picture posters, you came across the helpful subject heading “Motion picture posters.” 
+You should receive over 21 million items. Unfortunately, some of those aren’t movie posters. Earlier, when you located those 96 motion picture posters, you came across the helpful subject heading “Motion picture posters.”
 
 According to the [*API request documentation*](http://dp.la/info/developers/codex/requests/), you can use “sourceresource.[fieldname]" to search for specific metadata fields associated with an object. Let’s try that.
 
@@ -144,7 +145,7 @@ You should see this developing a longer URL near the top of the screen that stri
 
 *This should return 96 responses in JSON. You’ll notice, however, that there’s a default limit of 10, so you’re only seeing the first 10 results. To see the next page, you could add the key “page’ and value “2” to see the next ten. Or, you could expand the limit.*
 
-5. That’s what we’ll do. 
+5. That’s what we’ll do.
 ```
 Key: page_size Value: 100
 ```
