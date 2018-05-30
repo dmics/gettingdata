@@ -7,7 +7,7 @@ get data from collections, documents, and the web.
 
 -   [*Web Scraper*](https://webscraper.io/)
 -   [*DownThemAll*](https://addons.mozilla.org/en-US/firefox/addon/downthemall/)
--   [*Wget*](http://www.gnu.org/software/wget/)
+-   *cURL*
 -   [*Postman*](https://www.getpostman.com/)
 -   [*DPLA API*](http://dp.la/info/developers/codex/)
 
