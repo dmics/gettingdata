@@ -87,10 +87,13 @@ Use DownThemAll to download multiple texts from the collection below or one of y
 #### Directions
 
 1.  Navigate to
-    [*loc.gov/programs/national-film-preservation-board/film-registry/index-of-essays/*](https://www.loc.gov/programs/national-film-preservation-board/film-registry/index-of-essays/)
+    [*loc.gov/programs/national-film-preservation-board/film-registry/index-of-essays/*](https://www.loc.gov/programs/national-film-preservation-board/film-registry/index-of-essays/) in Firefox.
 2.  Right-click on an empty part of the screen and select DownThemAll
-3.  DownThemAll displays all available files to download from the current page as links. There are a number of presets built in to select certain types of files. Unfortunately for you, your desired filetype does not have a preset. Do some digging on the page to find the extension you need and specify it in the fast filtering section - if you don’t everything just click on the files you want to download.
-4.  Before downloading, set the folder you would like downloaded files to go into using the ‘Save Files in’ feature.
+3.  DownThemAll displays all available files to download from the current page as links. There are a number of presets built in to select certain types of files. You could potentially use this to download audio and video, images, or many other types of files.
+4. In the Filters section, select 'Documents (pdf, odf, ...)' and make sure that nothing else is selected.
+5. Look at the list of links and confirm that this looks correct.
+6. Make sure that the 'Save files in:' folder is set where you'd like it and click 'Start!'
+7. (Hit cancel right away if you don't want 300 pdfs on your computer.)
 
 ### Alternative Bulk Downloading
 
